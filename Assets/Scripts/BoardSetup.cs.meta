@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e9f0018c6132eb40aa7412306c788d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCam: {instanceID: 0}
+  - raycaster: {instanceID: 0}
+  - eventSystem: {instanceID: 0}
+  - YellowX: {fileID: 21300000, guid: bcfee1f5bcab9a741bfe69950dd11e6b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
